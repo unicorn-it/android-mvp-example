@@ -1,3 +1,4 @@
+package de.unicorn.android_template_mvp_example.app;
 
 import com.google.inject.AbstractModule;
 import de.unicorn.android_template.mvp_example.app.event.UnicornEvent;
