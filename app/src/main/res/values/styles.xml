@@ -1,0 +1,11 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat">
+        <item name="colorAccent">#ffff</item>
+    </style>
+    <style name="AppTheme.HintAppearance" parent="@android:style/TextAppearance">
+        <item name="android:textColorHint">@android:color/white</item>
+        <item name="android:textAppearance">@android:color/white</item>
+    </style>
+</resources>
